@@ -1,7 +1,9 @@
 # 🎮 Minyamir Kelemu | Software Engineering Student 🚀
 
 <p align="center">
-  <code style="color: #00ffcc; font-family: monospace;">Full-Stack Web & Mobile Dev in the making ...</code>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FFCC&center=true&vCenter=true&width=500&lines=Full-Stack+Web+%26+Mobile+Dev+in+the+making+...;Building+the+Future+with+MERN+%26+Flutter;Software+Engineering+at+Bahir+Dar+University" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
@@ -26,3 +28,13 @@
 </p>
 
 ---
+
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=minyamir&show_icons=true&theme=tokyonight&count_private=true" height="150" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minyamir&theme=tokyonight" height="150" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFCC&height=100&section=footer" />
+</p>
