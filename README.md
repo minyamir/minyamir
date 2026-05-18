@@ -32,9 +32,20 @@
 </p>
 
 ---
+---
 
-### 📊 GitHub Stats
+### 🤝 Connect with Me
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=minyamir&show_icons=true&theme=tokyonight&count_private=true" height="150" alt="Minyamir's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minyamir&theme=tokyonight" height="150" alt="streak" />
+  <a href="https://linkedin.com/in/minyamir" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a> &nbsp;
+  <a href="mailto:minyamirkelemu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFCC&height=120&section=footer" alt="footer" />
 </p>
