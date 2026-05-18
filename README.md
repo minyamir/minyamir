@@ -12,23 +12,23 @@
 * 🧠 I'm a Software Engineering student at **Bahir Dar University**.
 * ⚔️ Specializing in the **MERN Stack** (MongoDB, Express, React, Node.js).
 * 📱 Building cross-platform mobile apps with **Flutter & Dart**.
-* 🛠️ Currently working on **AI-integrated solutions** and community startups.
+* 🛠️ Currently working on **AI-integrated solutions** (NLP & Computer Vision).
 * 🔥 Always ready for a coding challenge.
 
 ### ⚙️ Tech Stack
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/>
 </p>
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
 </p>
 
@@ -36,7 +36,7 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=minyamir&show_icons=true&theme=tokyonight&count_private=true" alt="Minyamir's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=minyamir&show_icons=true&theme=tokyonight&count_private=true" height="150" alt="Minyamir's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=minyamir&theme=tokyonight" height="150" alt="streak" />
 </p>
 
