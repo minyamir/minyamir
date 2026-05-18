@@ -38,9 +38,3 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=minyamir&show_icons=true&theme=tokyonight&count_private=true" height="150" alt="Minyamir's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=minyamir&theme=tokyonight" height="150" alt="streak" />
 </p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFCC&height=120&section=footer" alt="footer" />
-</p>
