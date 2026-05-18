@@ -1,4 +1,4 @@
-# 🎮 Minyamir Kelemu | Software Engineering Student 🚀
+# 🎮 Minyamir Kelemu | Software Engineering Student 
 
 <p align="center">
   <a href="https://git.io/typing-svg">
