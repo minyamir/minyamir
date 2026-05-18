@@ -43,5 +43,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFCC&height=120&section=footer&fontSize=90" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFCC&height=120&section=footer" alt="footer" />
 </p>
