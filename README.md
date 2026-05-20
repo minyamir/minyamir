@@ -9,11 +9,58 @@
 ---
 
 ### 🎯 About Me
+
+## **Full-Stack & Mobile Developer**
+
+Highly motivated developer with a strong foundation in **full-stack web development** and **cross-platform mobile engineering**. Experienced in building end-to-end applications that solve complex problems, from intelligent routing algorithms to secure authentication systems. Proven ability to work across the entire stack—including low-level systems and symbolic AI—to deliver functional, scalable software solutions.
+
+---
+
+### **Core Competencies**
+
+* **Frontend & Mobile:** Flutter (Layered Architecture, State Management), React.js, Responsive Web Design.
+* **Backend & Logic:** Node.js, Express, MongoDB.
+* **Styling & UI:** Tailwind CSS, Modern CSS3.
+
+---
 * 🧠 I'm a Software Engineering student at **Bahir Dar University**.
 * ⚔️ Specializing in the **MERN Stack** (MongoDB, Express, React, Node.js).
 * 📱 Building cross-platform mobile apps with **Flutter & Dart**.
 * 🛠️ Currently working on **AI-integrated solutions** (NLP & Computer Vision).
 * 🔥 Always ready for a coding challenge.
+### **Technical Projects (README Highlights)**
+
+#### **ETHIO Kids**
+
+* **Tech Stack:** MongoDB, Express, React, Node.js (MERN), Tailwind CSS.
+* **Key Features:**
+* Implemented a fully responsive UI using **Tailwind CSS** for rapid, modern styling.
+* Developed a robust backend with **Node.js** and **Express**, utilizing **MongoDB** for flexible data management.
+* Focused on clean, maintainable code architecture.
+
+
+
+#### **HaHU second hand market *
+
+* **Tech Stack:** Flutter, Dart.
+* **Key Features:**
+* Built with a **layered architecture** to ensure scalability and ease of testing.
+* Managed complex application states to provide a seamless user experience.
+
+
+
+---
+
+### **Skills & Tools**
+
+| Category | Technologies |
+| --- | --- |
+| **Languages** | JavaScript (ES6+),Node,  Dart, HTML5, CSS3 |
+| **Frameworks** | React, Flutter, Express |
+| **Databases** | MongoDB |
+| **Design** | Tailwind CSS, Responsive Design |
+
+---
 
 ### ⚙️ Tech Stack
 <p align="left">
