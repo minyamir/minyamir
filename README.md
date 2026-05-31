@@ -40,7 +40,7 @@ Highly motivated developer with a strong foundation in **full-stack web developm
 
 
 
-#### **HaHU second hand market*
+#### *HaHU second hand market*
 
 * **Tech Stack:** Flutter, Dart.
 * **Key Features:**
