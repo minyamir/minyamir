@@ -58,7 +58,7 @@ Highly motivated developer with a strong foundation in **full-stack web developm
 | **Languages** | JavaScript (ES6+),Node, Dart, HTML5, CSS3 |
 | **Frameworks** | React, Flutter, Express , Fast api |
 | **Databases** | MongoDB |
-| **Design** | Tailwind CSS, Responsive Design |
+| **Design** | Tailwind CSS, Responsive Design ,Figma|
 
 ---
 
