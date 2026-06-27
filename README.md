@@ -58,9 +58,9 @@ Highly motivated developer with a strong foundation in **full-stack web developm
 
 ##### 📸 Project Preview
 
-| 🏠 Home Feed | 🪪 Identity Verification |
-|:------------:|:------------------------:|
-| <img src="images/Home2.jpg" width="250"/> | <img src="images/Identity.jpg" width="250"/> |
+| 🏠 Home Feed | 🛍️ Marketplace |🪪 Identity Verification |
+|:------------:|:------------------------:|:------------------------:|
+| <img src="images/Home2.jpg" width="250"/>|  <img src="images/Market.jpg" width="250"/> | <img src="images/Identity.jpg" width="250"/> |
 
 
 ---
