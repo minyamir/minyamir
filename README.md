@@ -30,23 +30,37 @@ Highly motivated developer with a strong foundation in **full-stack web developm
 * 🔥 Always ready for a coding challenge.
 ### **Technical Projects (README Highlights)**
 
+
 #### **ETHIO Kids**
 
 * **Tech Stack:** MongoDB, Express, React, Node.js (MERN), Tailwind CSS.
 * **Key Features:**
-* Implemented a fully responsive UI using **Tailwind CSS** for rapid, modern styling.
-* Developed a robust backend with **Node.js** and **Express**, utilizing **MongoDB** for flexible data management.
-* Focused on clean, maintainable code architecture.
+  * Implemented a fully responsive UI using **Tailwind CSS** for rapid, modern styling.
+  * Developed a robust backend with **Node.js** and **Express**, utilizing **MongoDB** for flexible data management.
+  * Focused on clean, maintainable code architecture.
+  
+###Check it out here :-  [https://kids-scoial-media.vercel.app/)
 
+##### 📸 Project Preview
 
+| 🏠 Home | 📚 Learning |
+|:-------:|:-----------:|
+| <img src="images/Kids.jpg" width="250"/> | <img src="images/Kids2.jpg" width="250"/> |
 
-#### *HaHU second hand market*
+---
+
+#### **HaHU Second-Hand Market**
 
 * **Tech Stack:** Flutter, Dart.
 * **Key Features:**
-* Built with a **layered architecture** to ensure scalability and ease of testing.
-* Managed complex application states to provide a seamless user experience.
+  * Built with a **layered architecture** to ensure scalability and ease of testing.
+  * Managed complex application states to provide a seamless user experience.
 
+##### 📸 Project Preview
+
+| 🏠 Home Feed | 🪪 Identity Verification |
+|:------------:|:------------------------:|
+| <img src="images/Home2.jpg" width="250"/> | <img src="images/Identity.jpg" width="250"/> |
 
 
 ---
