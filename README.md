@@ -45,7 +45,7 @@ Highly motivated developer with a strong foundation in **full-stack web developm
 
 | 🏠 Home | 📚 Learning |
 |:-------:|:-----------:|
-| <img src="images/Screenshot 2026-04-20 194147.png" width="250"/> | <img src="images/Screenshot 2026-04-20 194147.png" width="250"/> |
+| <img src="images/Screenshot 2026-04-20 194147.png" width="250"/> | <img src="images/Screenshot 2026-04-20 194546.png" width="250"/> |
 
 ---
 
