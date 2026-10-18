@@ -10,7 +10,7 @@
 
 ### 🎯 About Me
 
-## **Full-Stack & Mobile Developer**
+## **Full-Stack Web & Mobile Developer**
 
 Highly motivated developer with a strong foundation in **full-stack web development** and **cross-platform mobile engineering**. Experienced in building end-to-end applications that solve complex problems, from intelligent routing algorithms to secure authentication systems. Proven ability to work across the entire stack—including low-level systems and symbolic AI—to deliver functional, scalable software solutions.
 
